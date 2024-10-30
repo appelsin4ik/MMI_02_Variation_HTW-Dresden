@@ -2,6 +2,6 @@
 
 Bearbeiter: Kyrylo Kozhemiakin
 
-##Quellen
+## Quellen
 
-###Two-Step Gaze Guidance
+### Two-Step Gaze Guidance
