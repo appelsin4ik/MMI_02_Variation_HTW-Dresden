@@ -1,1 +1,7 @@
-# MMI_02_Variation_HTW-Dresden
+# Multimodale Mensch-Maschine-Interaktion
+
+Bearbeiter: Kyrylo Kozhemiakin
+
+##Quellen
+
+###Two-Step Gaze Guidance
