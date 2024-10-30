@@ -12,5 +12,7 @@ Bearbeiter: Kyrylo Kozhemiakin
 
 ## Erweiterung und Variation
 
-| | Name 1 | Name 2 |
+| | Two-Step Gaze Guiadance | Name 2 |
 | --- | ---- | --- |
+| Audiosignal |
+| Vibration | 
