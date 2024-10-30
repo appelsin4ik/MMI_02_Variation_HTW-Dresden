@@ -7,3 +7,10 @@ Bearbeiter: Kyrylo Kozhemiakin
 ### Two-Step Gaze Guidance
 
 ![Abbildung einer multimodalen Interaktion mit Blick und ...]
+
+### Text Nr. 2
+
+## Erweiterung und Variation
+
+| | Name 1 | Name 2 |
+| --- | ---- | --- |
