@@ -20,7 +20,7 @@ Das Dokument beschreibt "GlassBoARd", ein AR-System für kollaborative Arbeit, d
 | --- | ---- | --- |
 | _Audiosignal_ | genau bei dem Zielobject | infromiert über den hergestellten Blickkontakt
 | _Vibration_ | auf der rechten oder linken Seite | wenn der Nutzer vom vorgesehenen Arbeitsablauf abweicht
-| _Sprache_ | |
+| _Sprache_ | kann mit Hilfe von Schlagwörtern den Nutzer in die allgemeine Richtung des Ziels lenken | um verbale Anweisungen und Informationen auszutauschen
 
 ![Abbildung des CARE-Modells](img/care_modell.png)
 
