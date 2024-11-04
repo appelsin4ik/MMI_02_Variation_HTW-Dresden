@@ -22,6 +22,8 @@ Das Dokument beschreibt "GlassBoARd", ein AR-System für kollaborative Arbeit, d
 | _Vibration_ | auf der rechten oder linken Seite | wenn der Nutzer vom vorgesehenen Arbeitsablauf abweicht
 | _Sprache_ | |
 
+![Abbildung des CARE-Modells](img/care_modell.png)
+
 ## Literaturverzeichnis
 
 Tiffany C.K. Kwok, Peter Kiefer, and Martin Raubal. 2022. Two-Step Gaze Guidance. In Proceedings of 
