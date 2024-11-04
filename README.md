@@ -20,3 +20,10 @@ Das Dokument beschreibt "GlassBoARd", ein AR-System für kollaborative Arbeit, d
 | --- | ---- | --- |
 | Audiosignal |
 | Vibration | 
+
+## Literaturverzeichnis
+
+Tiffany C.K. Kwok, Peter Kiefer, and Martin Raubal. 2022. Two-Step Gaze Guidance. In Proceedings of 
+the 2022 International Conference on Multimodal Interaction (ICMI '22). Association for Computing 
+Machinery, New York, NY, USA, 299–309.
+https://doi.org/10.1145/3536221.3556612
