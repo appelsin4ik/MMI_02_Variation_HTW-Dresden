@@ -18,7 +18,7 @@ Das Dokument beschreibt "GlassBoARd", ein AR-System für kollaborative Arbeit, d
 
 | | Two-Step Gaze Guiadance | GlassBoARd: A Gaze-Enabled AR Interface for Collaborative Work |
 | --- | ---- | --- |
-| _Audiosignal_ | genau bei dem Zielobject | infromiert über den hergestellten Blickkontakt
+| Audiosignal | genau bei dem Zielobject | infromiert über den hergestellten Blickkontakt
 | Vibration | auf der rechten oder linken Seite | _wenn der Nutzer vom vorgesehenen Arbeitsablauf abweicht_
 | _Sprache_ | _kann mit Hilfe von Schlagwörtern den Nutzer in die allgemeine Richtung des Ziels lenken_ | _um verbale Anweisungen und Informationen auszutauschen_
 
