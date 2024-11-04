@@ -20,6 +20,7 @@ Das Dokument beschreibt "GlassBoARd", ein AR-System für kollaborative Arbeit, d
 | --- | ---- | --- |
 | Audiosignal | genau bei dem Zielobject | infromiert über den hergestellten Blickkontakt
 | Vibration | auf der rechten oder linken Seite | wenn der Nutzer vom vorgesehenen Arbeitsablauf abweicht
+| Sprache | |
 
 ## Literaturverzeichnis
 
