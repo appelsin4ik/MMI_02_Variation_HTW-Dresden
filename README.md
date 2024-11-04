@@ -14,7 +14,7 @@ Das Dokument beschreibt "GlassBoARd", ein AR-System für kollaborative Arbeit, d
 
 ## Erweiterung und Variation
 
-| | Two-Step Gaze Guiadance | Name 2 |
+| | Two-Step Gaze Guiadance | GlassBoARd: A Gaze-Enabled AR Interface for Collaborative Work |
 | --- | ---- | --- |
 | Audiosignal |
 | Vibration | 
