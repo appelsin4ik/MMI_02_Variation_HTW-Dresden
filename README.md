@@ -28,4 +28,5 @@ the 2022 International Conference on Multimodal Interaction (ICMI '22). Associat
 Machinery, New York, NY, USA, 299–309.
 https://doi.org/10.1145/3536221.3556612
 
-Kenan Bektaş, Adrian Pandjaitan, Jannis Strecker, and Simon Mayer. 2024. GlassBoARd: A Gaze-Enabled AR Interface for Collaborative Work. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '24). Association for Computing Machinery, New York, NY, USA, Article 181, 1–8. https://doi.org/10.1145/3613905.3650965
+Kenan Bektaş, Adrian Pandjaitan, Jannis Strecker, and Simon Mayer. 2024. GlassBoARd: A Gaze-Enabled AR Interface for Collaborative Work. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '24). Association for Computing Machinery, New York, NY, USA, Article 181, 1–8. 
+https://doi.org/10.1145/3613905.3650965
