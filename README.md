@@ -6,6 +6,8 @@ Bearbeiter: Kyrylo Kozhemiakin
 
 ### Two-Step Gaze Guidance
 
+Die Studie zum "Two-Step Gaze Guidance-System" untersucht, wie die Kombination aus Audio- und haptischen Signalen die Effizienz bei Suchaufgaben steigern kann. In einem zweistufigen Ansatz werden Nutzer zunächst durch räumliches Audio oder Vibrationen grob in die richtige Richtung gelenkt. Danach führt eine feinere Orientierung mithilfe von präziseren Audio- oder haptischen Signalen zum Ziel. In einer Laborstudie mit 69 Teilnehmern erwies sich die Nutzung von räumlichem Audio in der ersten Stufe als besonders effektiv und wurde von den Nutzern als intuitiver und hilfreicher wahrgenommen als das haptische Feedback. Als Fazit der Studie kann man sagen, dass räumliches Audio  deutliche Vorteile bei der Blickführung bietet und wird daher als bevorzugtes Mittel in der ersten Stufe empfohlen, da es die Zielsuche beschleunigt und die Benutzerfreundlichkeit erhöht.
+
 ![Abbildung einer multimodalen Interaktion mit Blick und ...]
 
 ### GlassBoARd: A Gaze-Enabled AR Interface for Collaborative Work
