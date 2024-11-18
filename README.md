@@ -22,8 +22,20 @@ Das Dokument beschreibt "GlassBoARd", ein AR-System für kollaborative Arbeit, d
 | Vibration | auf der rechten oder linken Seite | _wenn der Nutzer vom vorgesehenen Arbeitsablauf abweicht_
 | _Sprache_ | _kann mit Hilfe von Schlagwörtern den Nutzer in die allgemeine Richtung des Ziels lenken_ | _um verbale Anweisungen und Informationen auszutauschen_
 
-
 ![Abbildung des CARE-Modells](img/care_model_sprache.png)
+
+### Storytelling for Design
+
+## CROW-Framework
+
+| Dimension    | Description |
+| ------------ | ----------- |
+| Character    | -none       |
+| Relationship | -none       |
+| Objective    | -none       |
+| Where        | -none       |
+
+![KONZEPTION](img/mmi_03_konzeption_fertig_v2.png)
 
 ## Literaturverzeichnis
 
@@ -35,5 +47,6 @@ https://doi.org/10.1145/3536221.3556612
 Kenan Bektaş, Adrian Pandjaitan, Jannis Strecker, and Simon Mayer. 2024. GlassBoARd: A Gaze-Enabled AR Interface for Collaborative Work. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '24). Association for Computing Machinery, New York, NY, USA, Article 181, 1–8. 
 https://doi.org/10.1145/3613905.3650965
 
-![KONZEPTION](img/mmi_03_konzeption_fertig_v2.png)
+
+
 
