@@ -35,6 +35,8 @@ Das Dokument beschreibt "GlassBoARd", ein AR-System für kollaborative Arbeit, d
 | Objective    | -none       |
 | Where        | -none       |
 
+## Storyboarding
+
 ![KONZEPTION](img/mmi_03_konzeption_fertig_v2.png)
 
 ## Literaturverzeichnis
