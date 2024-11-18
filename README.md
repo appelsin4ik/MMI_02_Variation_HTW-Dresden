@@ -30,7 +30,7 @@ Das Dokument beschreibt "GlassBoARd", ein AR-System für kollaborative Arbeit, d
 
 | Dimension    | Description |
 | ------------ | ----------- |
-| Character    | -none       |
+| Character    | möchte sich nach dem anstrengenten Tag auf der Arbeit entspannen, technikaffiner Nutzer, komfortable Nutzung des Internets und der Unterhaltungssystemen, Ersetzung des Fernsehers, ist ein überdurchnittlicher IOS-Nutzer      |
 | Relationship | -none       |
 | Objective    | -none       |
 | Where        | -none       |
