@@ -30,7 +30,7 @@ Das Dokument beschreibt "GlassBoARd", ein AR-System für kollaborative Arbeit, d
 
 | Dimension    | Description |
 | ------------ | ----------- |
-| Character    | möchte sich nach dem anstrengenten Tag auf der Arbeit entspannen, technikaffiner Nutzer, komfortable Nutzung des Internets und der Unterhaltungssystemen, Ersetzung des Fernsehers, ist ein überdurchnittlicher IOS-Nutzer, hat noch nie Erfahrung mit solchen Technologoen gemacht, findet hilfreich wenn man Feedback mit Hilfe von Vibrationen bekommt, empfindet die Varwaltung der Nutzeroberflächen mit Hilfe von Eye-Tracker atemberaubend und inovativ     |
+| Character    | möchte sich nach dem anstrengenten Tag auf der Arbeit entspannen, technikaffiner Nutzer, komfortable Nutzung des Internets und der Unterhaltungssystemen, Ersetzung des Fernsehers, ist ein überdurchnittlicher IOS-Nutzer, hat noch nie Erfahrung mit solchen Technologoen gemacht, findet hilfreich wenn man Feedback mit Hilfe von Vibrationen bekommt, empfindet die Varwaltung der Nutzeroberflächen mit Hilfe von Eye-Tracker atemberaubend und inovativ, auch die Möglichkeit, sprachliche Suche auszuführen, macht die Nutzung des Geräts praktisch und universal    |
 | Relationship | -none       |
 | Objective    | -none       |
 | Where        | -none       |
