@@ -14,7 +14,7 @@ Die Studie zum "Two-Step Gaze Guidance-System" untersucht, wie die Kombination a
 
 Das Paper stellt GlassBoARd vor, ein AR-System, das Blickverfolgung und Avatare nutzt, um virtuelle Zusammenarbeit zu verbessern. Eine transparente Oberfläche ermöglicht natürlichen Blickkontakt, da die Augenbewegungen der Avatare den Nutzern entsprechen. Nach drei Entwicklungsstufen, in denen Funktionalität und Benutzerfreundlichkeit optimiert wurden, wurde das System erfolgreich in Tests eingesetzt. Es reduziert verbalen Aufwand und stärkt nonverbale Kommunikation. Zukünftig soll GlassBoARd vollständig AR-basiert werden, um Präsenz und Effizienz in realen Arbeitsprozessen weiter zu verbessern.
 
-![Das Dokument beschreibt "GlassBoARd", ein AR-System für kollaborative Arbeit, das Blickverfolgung nutzt, um räumlich getrennte Benutzer in Echtzeit interagieren zu lassen. Über Avatare können Benutzer Blickkontakt herstellen und nonverbale Hinweise austauschen, was die Kommunikation verbessert. In drei Entwicklungsstufen wurde das System optimiert und getestet. Ziel ist, die Wirkung von Blickdaten auf Zusammenarbeit und Kommunikationsqualität weiter zu erforschen.}
+![Das Dokument beschreibt "GlassBoARd", ein AR-System für kollaborative Arbeit, das Blickverfolgung nutzt, um räumlich getrennte Benutzer in Echtzeit interagieren zu lassen. Über Avatare können Benutzer Blickkontakt herstellen und nonverbale Hinweise austauschen, was die Kommunikation verbessert. In drei Entwicklungsstufen wurde das System optimiert und getestet. Ziel ist, die Wirkung von Blickdaten auf Zusammenarbeit und Kommunikationsqualität weiter zu erforschen.]
 
 ## Erweiterung und Variation
 
