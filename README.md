@@ -20,7 +20,7 @@ Die Studie von Jannis Strecker et al. (2024) stellt GlassBoARd vor, ein AR-Syste
 | --- | ---- | --- |
 | Audiosignal | genau bei dem Zielobject | infromiert über den hergestellten Blickkontakt
 | Vibration | auf der rechten oder linken Seite | _wenn der Nutzer vom vorgesehenen Arbeitsablauf abweicht_
-| _Sprache_ | _es können sämtliche Nutzungsfragen von dem Nutzer gestellt werden, welche das System annimmt und mit Hilfe von KI verarbeitet,um eine Reaktion in Form eines Audiosignals auszusprechen_ | _kann für das Steuern des Systems via verbale Anweisungen eingesetzt werden_
+| _Sprache_ | _es können sämtliche Nutzungsfragen von dem Nutzer gestellt werden, welche das System annimmt und mithilfe von KI verarbeitet,um eine Reaktion in Form eines Audiosignals auszusprechen_ | _kann für das Steuern des Systems via verbale Anweisungen eingesetzt werden_
 
 ![Abbildung des CARE-Modells](img/care_model_sprache.png)
 
@@ -31,9 +31,9 @@ Die Studie von Jannis Strecker et al. (2024) stellt GlassBoARd vor, ein AR-Syste
 | Dimension    | Description |
 | ------------ | ----------- |
 | Character    | der Nutzer möchte sich nach dem anstrengenden Tag auf der Arbeit entspannen. Er ist technikaffin und bevorzugt komfortable Nutzung des Internets und der Unterhaltungssysteme. Leider gibt es bei ihm in der Wohnung keinen Fernseher. An Erfahrung mit solchen Technologien mangelt es bei ihm, findet aber hilfreich, wenn man Feedback mithilfe von Vibrationen bekommt. Die Verwaltung der Nutzeroberflächen mithilfe von Eye-Tracker hat er selten gesehen und empfindet dieses als atemberaubend und innovativ. Die praktische und innovative Nutzung des Geräts erweist sich auch in der sprachlichen Suche des Inhalts. Ebenfalls ein wichtiges Merkmal ist, das der Nutzer IOS-Systeme bevorzugt.    |
-| Relationship | die Interaktion zwischen Mensch und Gerät zeigt sich in der reibungslosen Nutzung der verschiedenen Funktionen von dem Gerät (Apple Vision). Mithilfe von Eye-Tracking wählt der Nutzer gewünschte Bereiche in der Benutzeroberfläche aus, wobei haptisches Feedback durch Vibrationen die Eingabe bestätigt. Zusätzlich wird die Bedienung durch Sprachsteuerung ergänzt, die eine präzise und benutzerfreundliche Steuerung ermöglicht. Diese Art der Interaktion verdeutlicht, wie sehr sich der Nutzer auf die Effizienz und Funktionalität der Technologie verlässt      |
-| Objective    | das Hauptziel des Nutzers ist es, sich zu entspannen und einen Film zu genießen, obwohl er keinen Fernseher besitzt. Apple Vision bietet ihm genau diese Möglichkeit, indem es ein projiziertes Display nutzt und eine einfache Steuerung bereitstellt, die den Prozess komfortabel gestaltet       |
-| Where        | der Nutzer befindet sich in einem schlichten, privat eingerichteten Wohnzimmer, das ihm eine ruhige Umgebung bietet. In dieser entspannten Atmosphäre kann er die Funktionen des Geräts ungestört nutzen       |
+| Relationship | die Interaktion zwischen Mensch und Gerät zeigt sich in der reibungslosen Nutzung der verschiedenen Funktionen von dem Gerät (Apple Vision). Mithilfe von Eye-Tracking wählt der Nutzer gewünschte Bereiche in der Benutzeroberfläche aus, wobei haptisches Feedback durch Vibrationen die Eingabe bestätigt. Zusätzlich wird die Bedienung durch Sprachsteuerung ergänzt, die eine präzise und benutzerfreundliche Steuerung ermöglicht. Diese Art der Interaktion verdeutlicht, wie sehr sich der Nutzer auf die Effizienz und Funktionalität der Technologie verlässt.      |
+| Objective    | das Hauptziel des Nutzers ist es, sich zu entspannen und einen Film zu genießen, obwohl er keinen Fernseher besitzt. Apple Vision bietet ihm genau diese Möglichkeit, indem es ein projiziertes Display nutzt und eine einfache Steuerung bereitstellt, die den Prozess komfortabel gestaltet.       |
+| Where        | der Nutzer befindet sich in einem schlichten, privat eingerichteten Wohnzimmer, das ihm eine ruhige Umgebung bietet. In dieser entspannten Atmosphäre kann er die Funktionen des Geräts ungestört nutzen .      |
 
 ### Storyboarding
 
