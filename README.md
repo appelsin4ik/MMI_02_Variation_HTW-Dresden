@@ -12,9 +12,7 @@ Die Studie zum "Two-Step Gaze Guidance-System" untersucht, wie die Kombination a
 
 ### GlassBoARd: A Gaze-Enabled AR Interface for Collaborative Work
 
-Das Paper stellt GlassBoARd vor, ein AR-System, das Blickverfolgung und Avatare nutzt, um virtuelle Zusammenarbeit zu verbessern. Eine transparente Oberfläche ermöglicht natürlichen Blickkontakt, da die Augenbewegungen der Avatare den Nutzern entsprechen. Nach drei Entwicklungsstufen, in denen Funktionalität und Benutzerfreundlichkeit optimiert wurden, wurde das System erfolgreich in Tests eingesetzt. Es reduziert verbalen Aufwand und stärkt nonverbale Kommunikation. Zukünftig soll GlassBoARd vollständig AR-basiert werden, um Präsenz und Effizienz in realen Arbeitsprozessen weiter zu verbessern.
-
-![Das Dokument beschreibt "GlassBoARd", ein AR-System für kollaborative Arbeit, das Blickverfolgung nutzt, um räumlich getrennte Benutzer in Echtzeit interagieren zu lassen. Über Avatare können Benutzer Blickkontakt herstellen und nonverbale Hinweise austauschen, was die Kommunikation verbessert. In drei Entwicklungsstufen wurde das System optimiert und getestet. Ziel ist, die Wirkung von Blickdaten auf Zusammenarbeit und Kommunikationsqualität weiter zu erforschen.]
+Das Paper stellt GlassBoARd vor, ein AR-System, das Blickverfolgung und Avatare nutzt, um virtuelle Zusammenarbeit zu verbessern. Eine transparente Oberfläche ermöglicht natürlichen Blickkontakt, da die Augenbewegungen der Avatare den Nutzern entsprechen. Nach drei Entwicklungsstufen, in denen Funktionalität und Benutzerfreundlichkeit optimiert wurden, wurde das System erfolgreich in Tests eingesetzt. Es reduziert verbalen Aufwand und stärkt nonverbale Kommunikation. Zukünftig soll GlassBoARd vollständig AR-basiert werden, um Präsenz und Effizienz in realen Arbeitsprozessen weiter zu verbessern.Al Fazit kann man sagen, dass GlassBoARd das Potenzial von AR-Systemen zeigt, wie nonverbale Kommunikation effektiv zu nutzen und wie die virtuelle Zusammenarbeit natürlicher und effizienter zu gestalten ist. Es bietet eine Grundlage für zukünftige Forschungen und Anwendungen in realen Arbeitsumgebungen.
 
 ## Erweiterung und Variation
 
@@ -22,7 +20,7 @@ Das Paper stellt GlassBoARd vor, ein AR-System, das Blickverfolgung und Avatare 
 | --- | ---- | --- |
 | Audiosignal | genau bei dem Zielobject | infromiert über den hergestellten Blickkontakt
 | Vibration | auf der rechten oder linken Seite | _wenn der Nutzer vom vorgesehenen Arbeitsablauf abweicht_
-| _Sprache_ | _kann mit Hilfe von Schlagwörtern den Nutzer in die allgemeine Richtung des Ziels lenken_ | _um verbale Anweisungen von dem Nutzer _
+| _Sprache_ | _es können sämtliche Nutzungsfragen von dem Nutzer gestellt werden, welche das System annimmt und mit Hilfe von KI verarbeitet,um eine Reaktion in Form eines Audiosignals auszusprechen_ | _kann für das Steuern des Systems via verbale Anweisungen eingesetzt werden_
 
 ![Abbildung des CARE-Modells](img/care_model_sprache.png)
 
