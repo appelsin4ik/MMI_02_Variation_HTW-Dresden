@@ -24,9 +24,9 @@ Das Dokument beschreibt "GlassBoARd", ein AR-System für kollaborative Arbeit, d
 
 ![Abbildung des CARE-Modells](img/care_model_sprache.png)
 
-### Storytelling for Design
+## Storytelling for Design
 
-## CROW-Framework
+### CROW-Framework
 
 | Dimension    | Description |
 | ------------ | ----------- |
@@ -35,7 +35,7 @@ Das Dokument beschreibt "GlassBoARd", ein AR-System für kollaborative Arbeit, d
 | Objective    | -none       |
 | Where        | -none       |
 
-## Storyboarding
+### Storyboarding
 
 ![KONZEPTION](img/mmi_03_konzeption_fertig_v2.png)
 
